@@ -76,4 +76,4 @@ HomeGleam is a housekeeping service web app that connects users with trusted ser
 Contributions are welcome! Open issues or pull requests for improvements.
 
 # Author
-Kamali
+Kamali P
