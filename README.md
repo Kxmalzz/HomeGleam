@@ -46,10 +46,12 @@ HomeGleam is a housekeeping service web app that connects users with trusted ser
    - password: admin123*
      
 # Screenshots
-#Signup
+# Signup
 ![image](https://github.com/user-attachments/assets/e1d4d588-4046-42bf-91c3-7055e09e0d3e)
 
 #Signin
+![image](https://github.com/user-attachments/assets/55dca15b-196b-4edd-a9f8-5dfc43875d07)
+
 
 # contributing
 Contributions are welcome! Open issues or pull requests for improvements.
