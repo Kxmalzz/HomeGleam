@@ -1,13 +1,13 @@
 # HomeGleam
 HomeGleam is a housekeeping service web app that connects users with trusted service providers for tasks like cleaning, cooking, babysitting, and more.
 # Table of contents
- - Features
- - Tech Stack
- - Backend Info
- - Installation
- - Screenshots
- - contributing
- - Author
+ - [Features](#features)
+ - [Tech Stack](#tech-stack)
+ - [Backend Info](#backend-info)
+ - [Installation](#installation)
+ - [Screenshots](#screenshots)
+ - [contributing](#contributing)
+ - [Author](#author)
 # Features
 - User login and registration using Firebase
 - Service selection with custom options (cleaning, cooking, etc.)
